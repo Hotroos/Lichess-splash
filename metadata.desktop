@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=TinyCore Splash
+Comment=A custom splash screen for KDE Plasma 6
+
+[X-KDE-Splash-Script]
+Script=splash.qml
